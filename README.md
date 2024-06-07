@@ -1,0 +1,1 @@
+# ANONIM4IK-s-asset-library
