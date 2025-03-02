@@ -11,7 +11,6 @@ blender asset library
 | Fake Clouds | WIP | it seems to work, but it doesn't seem to work, in short, in development |
 | Camera Culling | done | Fully worked |
 | Blockify | WIP | Ehh, maybe work |
-=======
-=======
+
 The asset library includes a lot of different things, from a simple LOD system to an alpha remover (+extrude+fixuv) and much more!
 
