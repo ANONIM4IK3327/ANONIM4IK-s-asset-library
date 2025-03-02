@@ -12,5 +12,4 @@ blender asset library
 | Camera Culling | done | Fully worked |
 | Blockify | WIP | Ehh, maybe work |
 
-The asset library includes a lot of different things, from a simple LOD system to an alpha remover (+extrude+fixuv) and much more!
-
+The asset library includes a lot of different things, from a simple LOD system to an alpha remover (+extrude+fixuv) and much more
